@@ -1,0 +1,10 @@
+C:\Users\fianchetto\source\repos\ImageProcessingEditor\ImageProcessingEditor\bin\Debug\ImageProcessingEditor.exe.config
+C:\Users\fianchetto\source\repos\ImageProcessingEditor\ImageProcessingEditor\bin\Debug\ImageProcessingEditor.exe
+C:\Users\fianchetto\source\repos\ImageProcessingEditor\ImageProcessingEditor\bin\Debug\ImageProcessingEditor.pdb
+C:\Users\fianchetto\source\repos\ImageProcessingEditor\ImageProcessingEditor\obj\Debug\ImageProcessingEditor.csprojResolveAssemblyReference.cache
+C:\Users\fianchetto\source\repos\ImageProcessingEditor\ImageProcessingEditor\obj\Debug\ImageProcessingEditor.Form1.resources
+C:\Users\fianchetto\source\repos\ImageProcessingEditor\ImageProcessingEditor\obj\Debug\ImageProcessingEditor.Properties.Resources.resources
+C:\Users\fianchetto\source\repos\ImageProcessingEditor\ImageProcessingEditor\obj\Debug\ImageProcessingEditor.csproj.GenerateResource.Cache
+C:\Users\fianchetto\source\repos\ImageProcessingEditor\ImageProcessingEditor\obj\Debug\ImageProcessingEditor.csproj.CoreCompileInputs.cache
+C:\Users\fianchetto\source\repos\ImageProcessingEditor\ImageProcessingEditor\obj\Debug\ImageProcessingEditor.exe
+C:\Users\fianchetto\source\repos\ImageProcessingEditor\ImageProcessingEditor\obj\Debug\ImageProcessingEditor.pdb
